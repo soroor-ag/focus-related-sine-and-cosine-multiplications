@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sat Feb 13 08:43:13 2021
+# Process ID: 7496
+# Current directory: D:/delay line/x_focus/x_focus.runs/synth_1
+# Command line: vivado.exe -log x_focusal.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source x_focusal.tcl
+# Log file: D:/delay line/x_focus/x_focus.runs/synth_1/x_focusal.vds
+# Journal file: D:/delay line/x_focus/x_focus.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source x_focusal.tcl -notrace

@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/delay line/mrs.aghapoor/rom_1014/rom_1014.srcs/sources_1/new/rom_1018.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'rom_1018'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/delay line/x_focus/x_focusal.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'x_focusal'

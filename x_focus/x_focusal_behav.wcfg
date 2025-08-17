@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="x_focusal_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="x_focusal" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="40999995fs"></ZoomStartTime>
+      <ZoomEndTime time="40999996fs"></ZoomEndTime>
+      <Cursor1Time time="41000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="276"></NameColumnWidth>
+      <ValueColumnWidth column_width="120"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="8" />
+   <wvobject fp_name="/x_focusal/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/x_focusal/Radial_focus" type="array">
+      <obj_property name="ElementShortName">Radial_focus[19:0]</obj_property>
+      <obj_property name="ObjectShortName">Radial_focus[19:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/x_focusal/Res_coeff" type="array">
+      <obj_property name="ElementShortName">Res_coeff[2:0]</obj_property>
+      <obj_property name="ObjectShortName">Res_coeff[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/x_focusal/k" type="array">
+      <obj_property name="ElementShortName">k[6:0]</obj_property>
+      <obj_property name="ObjectShortName">k[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/x_focusal/X_focus1" type="array">
+      <obj_property name="ElementShortName">X_focus1[36:0]</obj_property>
+      <obj_property name="ObjectShortName">X_focus1[36:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/x_focusal/add" type="array">
+      <obj_property name="ElementShortName">add[8:0]</obj_property>
+      <obj_property name="ObjectShortName">add[8:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/x_focusal/add1" type="array">
+      <obj_property name="ElementShortName">add1[9:0]</obj_property>
+      <obj_property name="ObjectShortName">add1[9:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/x_focusal/table_sin_saved" type="array">
+      <obj_property name="ElementShortName">table_sin_saved[16:0]</obj_property>
+      <obj_property name="ObjectShortName">table_sin_saved[16:0]</obj_property>
+   </wvobject>
+</wave_config>

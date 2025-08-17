@@ -1,0 +1,9 @@
+Vivado Simulator 2020.2
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: D:/vivado/Vivado/2020.2/bin/unwrapped/win64.o/xelab.exe -wto 6dad5f0802e34d319b06141baf64df3e --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot x_focusal_behav xil_defaultlib.x_focusal -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+ERROR: [VRFC 10-718] formal port <clk> does not exist in entity <rom_1018>.  Please compare the definition of block <rom_1018> to its component declaration and its instantion to detect the mismatch. [D:/delay line/x_focus/x_focusal.vhd:60]
+ERROR: [VRFC 10-718] formal port <add> does not exist in entity <rom_1018>.  Please compare the definition of block <rom_1018> to its component declaration and its instantion to detect the mismatch. [D:/delay line/x_focus/x_focusal.vhd:61]
+ERROR: [VRFC 10-718] formal port <table_cos_saved> does not exist in entity <rom_1018>.  Please compare the definition of block <rom_1018> to its component declaration and its instantion to detect the mismatch. [D:/delay line/x_focus/x_focusal.vhd:62]
+ERROR: [XSIM 43-3321] Static elaboration of top level VHDL design unit x_focusal in library work failed.
